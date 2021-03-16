@@ -1,0 +1,13 @@
+C:\Users\Zeldy\source\repos\DnDgenerator\DnDgenerator\bin\Debug\netcoreapp3.1\DnDgenerator.exe
+C:\Users\Zeldy\source\repos\DnDgenerator\DnDgenerator\bin\Debug\netcoreapp3.1\DnDgenerator.deps.json
+C:\Users\Zeldy\source\repos\DnDgenerator\DnDgenerator\bin\Debug\netcoreapp3.1\DnDgenerator.runtimeconfig.json
+C:\Users\Zeldy\source\repos\DnDgenerator\DnDgenerator\bin\Debug\netcoreapp3.1\DnDgenerator.runtimeconfig.dev.json
+C:\Users\Zeldy\source\repos\DnDgenerator\DnDgenerator\bin\Debug\netcoreapp3.1\DnDgenerator.dll
+C:\Users\Zeldy\source\repos\DnDgenerator\DnDgenerator\bin\Debug\netcoreapp3.1\DnDgenerator.pdb
+C:\Users\Zeldy\source\repos\DnDgenerator\DnDgenerator\obj\Debug\netcoreapp3.1\DnDgenerator.csprojAssemblyReference.cache
+C:\Users\Zeldy\source\repos\DnDgenerator\DnDgenerator\obj\Debug\netcoreapp3.1\DnDgenerator.AssemblyInfoInputs.cache
+C:\Users\Zeldy\source\repos\DnDgenerator\DnDgenerator\obj\Debug\netcoreapp3.1\DnDgenerator.AssemblyInfo.cs
+C:\Users\Zeldy\source\repos\DnDgenerator\DnDgenerator\obj\Debug\netcoreapp3.1\DnDgenerator.csproj.CoreCompileInputs.cache
+C:\Users\Zeldy\source\repos\DnDgenerator\DnDgenerator\obj\Debug\netcoreapp3.1\DnDgenerator.dll
+C:\Users\Zeldy\source\repos\DnDgenerator\DnDgenerator\obj\Debug\netcoreapp3.1\DnDgenerator.pdb
+C:\Users\Zeldy\source\repos\DnDgenerator\DnDgenerator\obj\Debug\netcoreapp3.1\DnDgenerator.genruntimeconfig.cache
